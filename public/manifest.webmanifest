@@ -1,0 +1,17 @@
+{
+  "name": "Tabby - Divisor Inteligente de Tickets de Bar",
+  "short_name": "Tabby",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "description": "Divide tickets de bar y restaurante escaneando y pasando el móvil botón a botón con saldo en directo.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

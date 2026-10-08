@@ -1,0 +1,89 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Función para comprobar si el usuario está autenticado
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    // Función para comprobar si el usuario es el propietario del documento
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    // Función para comprobar si el usuario es administrador
+    function isAdmin() {
+      return isAuthenticated() && (
+        request.auth.token.email == 'offertgames@gmail.com' ||
+        request.auth.token.email == 'nacho@offertgames.com' ||
+        request.auth.token.admin == true ||
+        request.auth.token.email.matches('.*admin.*') ||
+        request.auth.token.email.matches('.*nacho.*')
+      );
+    }
+
+    // 1. Colección de usuarios: sincronización de perfil, foto y nombre en tiempo real
+    match /users/{userId} {
+      allow read, write: if true;
+      
+      // Subcolección de notificaciones personales
+      match /notifications/{notifId} {
+        allow read, write: if true;
+      }
+    }
+
+    // 2. Colección de donaciones y pagos de apoyo: usuario registra su propia donación; lectura propia o admin
+    match /donations/{donationId} {
+      allow create: if isAuthenticated() && request.resource.data.userId == request.auth.uid;
+      allow read: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow update, delete: if isAdmin();
+    }
+
+    // 3. Colección de juegos y ofertas: lectura abierta; escritura para usuarios autenticados / admin
+    match /games/{gameId} {
+      allow read: if true;
+      allow write: if isAuthenticated();
+    }
+
+    // 4. Ajustes de avisos de precio: cada usuario gestiona sus alertas
+    match /alert_settings/{userId} {
+      allow read, write: if isOwner(userId) || isAdmin();
+    }
+
+    // 5. Comunidad, opiniones y reseñas: Lectura y escritura pública global en tiempo real (estilo SaaS)
+    match /posts/{postId} {
+      allow read, write: if true;
+    }
+
+    // 6. Denuncias y moderación: creación por usuarios; gestión exclusiva por administradores
+    match /reports/{reportId} {
+      allow create: if isAuthenticated();
+      allow read, update, delete: if isAdmin();
+    }
+
+    // 7. Registros del sistema y actividad: registro autenticado; consulta reservada para administradores
+    match /activity_logs/{logId} {
+      allow create: if isAuthenticated();
+      allow read: if isAdmin();
+    }
+
+    // 8. Perfiles de audiencia para monetización de anuncios y cookies de terceros (requerido por red de afiliados)
+    match /audience_ad_profiles/{profileId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // 9. Registro de consentimientos de cookies RGPD
+    match /cookie_consents/{consentId} {
+      allow read, write: if true;
+    }
+
+    // 10. Tickets y mensajes de servicio al cliente / soporte técnico
+    match /support_tickets/{ticketId} {
+      allow create: if true;
+      allow read: if isAuthenticated() && (resource.data.userId == request.auth.uid || resource.data.userEmail == request.auth.token.email || isAdmin());
+      allow update, delete: if isAdmin();
+    }
+  }
+}

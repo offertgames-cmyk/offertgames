@@ -1,0 +1,2402 @@
+{
+  "10": {
+    "originalPrice": 8.19,
+    "currentPrice": 1.63,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "30": {
+    "originalPrice": 4.99,
+    "currentPrice": 0.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "40": {
+    "originalPrice": 4.99,
+    "currentPrice": 0.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "50": {
+    "originalPrice": 4.99,
+    "currentPrice": 0.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "70": {
+    "originalPrice": 8.19,
+    "currentPrice": 1.63,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "80": {
+    "originalPrice": 8.19,
+    "currentPrice": 1.63,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "100": {
+    "originalPrice": 8.19,
+    "currentPrice": 1.63,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "130": {
+    "originalPrice": 4.99,
+    "currentPrice": 0.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "220": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "240": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "280": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "300": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "320": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "340": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "360": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "380": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "400": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "420": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "440": {
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercent": 0,
+    "isFree": true
+  },
+  "500": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "550": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "620": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "630": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "730": {
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercent": 0,
+    "isFree": true
+  },
+  "1250": {
+    "originalPrice": 19.99,
+    "currentPrice": 1.99,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "1840": {
+    "originalPrice": 59.99,
+    "currentPrice": 59.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2100": {
+    "originalPrice": 4.99,
+    "currentPrice": 1.24,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "2280": {
+    "originalPrice": 9.99,
+    "currentPrice": 3.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "2310": {
+    "originalPrice": 9.99,
+    "currentPrice": 3.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "2630": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "3590": {
+    "originalPrice": 4.99,
+    "currentPrice": 4.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "3910": {
+    "originalPrice": 4.99,
+    "currentPrice": 0.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "4000": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "4500": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "4560": {
+    "originalPrice": 32.99,
+    "currentPrice": 6.59,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "4570": {
+    "originalPrice": 13.99,
+    "currentPrice": 9.23,
+    "discountPercent": 34,
+    "isFree": false
+  },
+  "4700": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "4760": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "4920": {
+    "originalPrice": 4.99,
+    "currentPrice": 0.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "6000": {
+    "originalPrice": 9.75,
+    "currentPrice": 3.41,
+    "discountPercent": 65,
+    "isFree": false
+  },
+  "6060": {
+    "originalPrice": 9.75,
+    "currentPrice": 4.87,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "6850": {
+    "originalPrice": 8.99,
+    "currentPrice": 0.89,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "6860": {
+    "originalPrice": 9.75,
+    "currentPrice": 0.97,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "6880": {
+    "originalPrice": 6.99,
+    "currentPrice": 0.97,
+    "discountPercent": 86,
+    "isFree": false
+  },
+  "6910": {
+    "originalPrice": 6.99,
+    "currentPrice": 0.9,
+    "discountPercent": 87,
+    "isFree": false
+  },
+  "6920": {
+    "originalPrice": 6.99,
+    "currentPrice": 1.74,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "7000": {
+    "originalPrice": 6.99,
+    "currentPrice": 0.97,
+    "discountPercent": 86,
+    "isFree": false
+  },
+  "7670": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "7940": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "8000": {
+    "originalPrice": 8.99,
+    "currentPrice": 0.98,
+    "discountPercent": 89,
+    "isFree": false
+  },
+  "8140": {
+    "originalPrice": 8.99,
+    "currentPrice": 0.98,
+    "discountPercent": 89,
+    "isFree": false
+  },
+  "8190": {
+    "originalPrice": 14.99,
+    "currentPrice": 1.49,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "8500": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "8850": {
+    "originalPrice": 19.99,
+    "currentPrice": 2.99,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "8870": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "8930": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "8980": {
+    "originalPrice": 29.99,
+    "currentPrice": 5.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "9010": {
+    "originalPrice": 4.99,
+    "currentPrice": 1.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "16810": {
+    "originalPrice": 24.99,
+    "currentPrice": 4.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "17460": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "20900": {
+    "originalPrice": 7.99,
+    "currentPrice": 1.19,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "20920": {
+    "originalPrice": 19.99,
+    "currentPrice": 2.99,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "21690": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "22300": {
+    "originalPrice": 9.99,
+    "currentPrice": 2.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "22370": {
+    "originalPrice": 19.99,
+    "currentPrice": 6.59,
+    "discountPercent": 67,
+    "isFree": false
+  },
+  "22380": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "33230": {
+    "originalPrice": 9.99,
+    "currentPrice": 2.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "38420": {
+    "originalPrice": 9.99,
+    "currentPrice": 2.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "39210": {
+    "originalPrice": 9.99,
+    "currentPrice": 9.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "45300": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.95,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "49520": {
+    "originalPrice": 44.99,
+    "currentPrice": 6.74,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "65980": {
+    "originalPrice": 39.99,
+    "currentPrice": 9.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "71250": {
+    "originalPrice": 7.99,
+    "currentPrice": 3.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "105600": {
+    "originalPrice": 9.75,
+    "currentPrice": 4.87,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "201810": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "203160": {
+    "originalPrice": 19.99,
+    "currentPrice": 2.99,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "205100": {
+    "originalPrice": 9.99,
+    "currentPrice": 2.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "208200": {
+    "originalPrice": 9.99,
+    "currentPrice": 3.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "208570": {
+    "originalPrice": 2.99,
+    "currentPrice": 1.19,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "208575": {
+    "originalPrice": 4.99,
+    "currentPrice": 1.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "212893": {
+    "originalPrice": 1.99,
+    "currentPrice": 0.79,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "212894": {
+    "originalPrice": 4.99,
+    "currentPrice": 1.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "213610": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "221040": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "224960": {
+    "originalPrice": 6.99,
+    "currentPrice": 3.49,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "228280": {
+    "originalPrice": 19.5,
+    "currentPrice": 5.85,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "236430": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "238010": {
+    "originalPrice": 19.99,
+    "currentPrice": 1.99,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "239140": {
+    "originalPrice": 24.99,
+    "currentPrice": 2.49,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "252490": {
+    "originalPrice": 39.99,
+    "currentPrice": 19.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "255710": {
+    "originalPrice": 27.99,
+    "currentPrice": 8.39,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "257350": {
+    "originalPrice": 19.5,
+    "currentPrice": 5.85,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "261570": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "261640": {
+    "originalPrice": 39.99,
+    "currentPrice": 3.99,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "264710": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "271260": {
+    "originalPrice": 20.49,
+    "currentPrice": 6.14,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "271942": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "275850": {
+    "originalPrice": 58.99,
+    "currentPrice": 23.59,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "284450": {
+    "originalPrice": 24.99,
+    "currentPrice": 12.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "289070": {
+    "originalPrice": 59.99,
+    "currentPrice": 5.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "289650": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "292030": {
+    "originalPrice": 49.99,
+    "currentPrice": 24.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "303800": {
+    "originalPrice": 9.99,
+    "currentPrice": 1.49,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "304240": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "329050": {
+    "originalPrice": 24.99,
+    "currentPrice": 7.49,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "330830": {
+    "originalPrice": 19.99,
+    "currentPrice": 14.99,
+    "discountPercent": 25,
+    "isFree": false
+  },
+  "335300": {
+    "originalPrice": 39.99,
+    "currentPrice": 19.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "337000": {
+    "originalPrice": 29.99,
+    "currentPrice": 2.99,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "339340": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "350080": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "353610": {
+    "originalPrice": 5.99,
+    "currentPrice": 5.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "354427": {
+    "originalPrice": 3.99,
+    "currentPrice": 1.19,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "365720": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "367520": {
+    "originalPrice": 14.79,
+    "currentPrice": 14.79,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "368500": {
+    "originalPrice": 39.99,
+    "currentPrice": 7.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "374320": {
+    "originalPrice": 59.99,
+    "currentPrice": 29.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "377160": {
+    "originalPrice": 19.99,
+    "currentPrice": 7.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "379430": {
+    "originalPrice": 29.99,
+    "currentPrice": 4.49,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "379720": {
+    "originalPrice": 19.99,
+    "currentPrice": 3.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "385970": {
+    "originalPrice": 9.75,
+    "currentPrice": 3.41,
+    "discountPercent": 65,
+    "hasSale": true
+  },
+  "387290": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "391220": {
+    "originalPrice": 29.99,
+    "currentPrice": 4.49,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "392640": {
+    "originalPrice": 2.99,
+    "currentPrice": 2.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "397540": {
+    "originalPrice": 59.99,
+    "currentPrice": 5.99,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "397550": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "403640": {
+    "originalPrice": 29.99,
+    "currentPrice": 5.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "409210": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "411401": {
+    "originalPrice": 5.89,
+    "currentPrice": 2.94,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "413150": {
+    "originalPrice": 13.99,
+    "currentPrice": 9.79,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "413360": {
+    "originalPrice": 11.99,
+    "currentPrice": 2.39,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "418370": {
+    "originalPrice": 19.99,
+    "currentPrice": 7.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "435150": {
+    "originalPrice": 44.99,
+    "currentPrice": 11.24,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "435881": {
+    "originalPrice": 14.99,
+    "currentPrice": 8.99,
+    "discountPercent": 40,
+    "isFree": false
+  },
+  "440820": {
+    "originalPrice": 4.99,
+    "currentPrice": 3.49,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "442010": {
+    "originalPrice": 24.99,
+    "currentPrice": 12.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "447530": {
+    "originalPrice": 14.99,
+    "currentPrice": 10.04,
+    "discountPercent": 33,
+    "hasSale": true
+  },
+  "449394": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "455050": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "459280": {
+    "originalPrice": 9.75,
+    "currentPrice": 2.92,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "465980": {
+    "originalPrice": 9.99,
+    "currentPrice": 3.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "467620": {
+    "originalPrice": 9.75,
+    "currentPrice": 2.92,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "480490": {
+    "originalPrice": 29.99,
+    "currentPrice": 5.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "489830": {
+    "originalPrice": 39.99,
+    "currentPrice": 3.99,
+    "discountPercent": 90,
+    "isFree": false
+  },
+  "503130": {
+    "originalPrice": 1.99,
+    "currentPrice": 1.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "504230": {
+    "originalPrice": 18.99,
+    "currentPrice": 4.74,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "506803": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "506970": {
+    "originalPrice": 14.99,
+    "currentPrice": 7.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "506971": {
+    "originalPrice": 14.99,
+    "currentPrice": 7.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "526180": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "534380": {
+    "originalPrice": 59.99,
+    "currentPrice": 11.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "541720": {
+    "originalPrice": 6.89,
+    "currentPrice": 2.89,
+    "discountPercent": 58,
+    "hasSale": true
+  },
+  "555450": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "570940": {
+    "originalPrice": 39.99,
+    "currentPrice": 19.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "582010": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.79,
+    "discountPercent": 74,
+    "hasSale": true
+  },
+  "582160": {
+    "originalPrice": 59.99,
+    "currentPrice": 8.99,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "584400": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "588430": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "588650": {
+    "originalPrice": 24.99,
+    "currentPrice": 12.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "595280": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "598120": {
+    "originalPrice": 4.99,
+    "currentPrice": 4.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "598190": {
+    "originalPrice": 9.99,
+    "currentPrice": 9.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "601150": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "611660": {
+    "originalPrice": 59.99,
+    "currentPrice": 19.79,
+    "discountPercent": 67,
+    "isFree": false
+  },
+  "611670": {
+    "originalPrice": 59.99,
+    "currentPrice": 14.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "612880": {
+    "originalPrice": 29.99,
+    "currentPrice": 4.49,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "614570": {
+    "originalPrice": 29.99,
+    "currentPrice": 5.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "623090": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "631510": {
+    "originalPrice": 29.99,
+    "currentPrice": 9.89,
+    "discountPercent": 67,
+    "isFree": false
+  },
+  "632470": {
+    "originalPrice": 37.99,
+    "currentPrice": 9.49,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "637650": {
+    "originalPrice": 34.99,
+    "currentPrice": 10.49,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "645402": {
+    "originalPrice": 29.99,
+    "currentPrice": 14.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "646570": {
+    "originalPrice": 22.99,
+    "currentPrice": 5.74,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "665380": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "690040": {
+    "originalPrice": 22.49,
+    "currentPrice": 8.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "715020": {
+    "originalPrice": 15.19,
+    "currentPrice": 1.51,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "718940": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "721107": {
+    "originalPrice": 3.99,
+    "currentPrice": 3.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "750920": {
+    "originalPrice": 39.99,
+    "currentPrice": 5.99,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "755800": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "782330": {
+    "originalPrice": 29.99,
+    "currentPrice": 9.89,
+    "discountPercent": 67,
+    "hasSale": true
+  },
+  "798541": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "801980": {
+    "originalPrice": 3.99,
+    "currentPrice": 3.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "812140": {
+    "originalPrice": 59.99,
+    "currentPrice": 11.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "814380": {
+    "originalPrice": 59.99,
+    "currentPrice": 29.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "816340": {
+    "originalPrice": 12.49,
+    "currentPrice": 6.24,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "826460": {
+    "originalPrice": 1.09,
+    "currentPrice": 0.54,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "848450": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "865670": {
+    "originalPrice": 19.99,
+    "currentPrice": 7.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "870780": {
+    "originalPrice": 39.99,
+    "currentPrice": 5.99,
+    "discountPercent": 85,
+    "isFree": false
+  },
+  "872280": {
+    "originalPrice": 14.99,
+    "currentPrice": 4.94,
+    "discountPercent": 67,
+    "isFree": false
+  },
+  "877620": {
+    "originalPrice": 5.49,
+    "currentPrice": 2.74,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "883710": {
+    "originalPrice": 39.99,
+    "currentPrice": 7.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "886290": {
+    "originalPrice": 3.99,
+    "currentPrice": 3.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "914120": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "916000": {
+    "originalPrice": 3.99,
+    "currentPrice": 3.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "941958": {
+    "originalPrice": 0.99,
+    "currentPrice": 0.64,
+    "discountPercent": 35,
+    "isFree": false
+  },
+  "941959": {
+    "originalPrice": 2.99,
+    "currentPrice": 1.94,
+    "discountPercent": 35,
+    "isFree": false
+  },
+  "941960": {
+    "originalPrice": 2.99,
+    "currentPrice": 1.94,
+    "discountPercent": 35,
+    "isFree": false
+  },
+  "941961": {
+    "originalPrice": 2.99,
+    "currentPrice": 1.94,
+    "discountPercent": 35,
+    "isFree": false
+  },
+  "941963": {
+    "originalPrice": 3.99,
+    "currentPrice": 3.19,
+    "discountPercent": 20,
+    "isFree": false
+  },
+  "941965": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "947510": {
+    "originalPrice": 39.99,
+    "currentPrice": 19.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "949230": {
+    "originalPrice": 49.99,
+    "currentPrice": 34.99,
+    "discountPercent": 30,
+    "isFree": false
+  },
+  "952060": {
+    "originalPrice": 39.99,
+    "currentPrice": 7.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "973760": {
+    "originalPrice": 19.99,
+    "currentPrice": 3.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "977420": {
+    "originalPrice": 5.99,
+    "currentPrice": 1.79,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "990080": {
+    "originalPrice": 59.99,
+    "currentPrice": 5.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "1030300": {
+    "originalPrice": 19.5,
+    "currentPrice": 19.5,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1046440": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1050460": {
+    "originalPrice": 29.99,
+    "currentPrice": 29.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1056960": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1057090": {
+    "originalPrice": 29.99,
+    "currentPrice": 2.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "1072420": {
+    "originalPrice": 49.99,
+    "currentPrice": 24.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1086940": {
+    "originalPrice": 59.99,
+    "currentPrice": 41.99,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "1088710": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1091500": {
+    "originalPrice": 59.99,
+    "currentPrice": 17.99,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "1092840": {
+    "originalPrice": 8.49,
+    "currentPrice": 2.12,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1105500": {
+    "originalPrice": 19.99,
+    "currentPrice": 9.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1105510": {
+    "originalPrice": 19.99,
+    "currentPrice": 9.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1113000": {
+    "originalPrice": 19.99,
+    "currentPrice": 9.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1118010": {
+    "originalPrice": 39.99,
+    "currentPrice": 5.99,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "1145350": {
+    "originalPrice": 28.99,
+    "currentPrice": 20.29,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "1145360": {
+    "originalPrice": 24.5,
+    "currentPrice": 6.12,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1148590": {
+    "originalPrice": 4.99,
+    "currentPrice": 1.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1151340": {
+    "originalPrice": 39.99,
+    "currentPrice": 9.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1151640": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1172620": {
+    "originalPrice": 39.99,
+    "currentPrice": 13.99,
+    "discountPercent": 65,
+    "hasSale": true
+  },
+  "1173140": {
+    "originalPrice": 19.99,
+    "currentPrice": 4.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1173770": {
+    "originalPrice": 11.99,
+    "currentPrice": 7.19,
+    "discountPercent": 40,
+    "isFree": false
+  },
+  "1174180": {
+    "originalPrice": 59.99,
+    "currentPrice": 14.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1174370": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1176130": {
+    "originalPrice": 10.25,
+    "currentPrice": 5.12,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1195480": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1197700": {
+    "originalPrice": 5.69,
+    "currentPrice": 1.7,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "1204130": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1206340": {
+    "originalPrice": 9.75,
+    "currentPrice": 2.43,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1229320": {
+    "originalPrice": 9.99,
+    "currentPrice": 3.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1233220": {
+    "originalPrice": 11.99,
+    "currentPrice": 2.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1235140": {
+    "originalPrice": 19.99,
+    "currentPrice": 7.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "1237320": {
+    "originalPrice": 39.99,
+    "currentPrice": 13.99,
+    "discountPercent": 65,
+    "isFree": false
+  },
+  "1238000": {
+    "originalPrice": 39.99,
+    "currentPrice": 7.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "1238012": {
+    "originalPrice": 9.99,
+    "currentPrice": 9.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1238013": {
+    "originalPrice": 9.99,
+    "currentPrice": 9.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1238020": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1240360": {
+    "originalPrice": 15.99,
+    "currentPrice": 7.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1241570": {
+    "originalPrice": 2.99,
+    "currentPrice": 0.74,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1245620": {
+    "originalPrice": 59.99,
+    "currentPrice": 59.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1258740": {
+    "originalPrice": 12.49,
+    "currentPrice": 4.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "1260690": {
+    "originalPrice": 2.39,
+    "currentPrice": 1.19,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1277400": {
+    "originalPrice": 39.99,
+    "currentPrice": 14.79,
+    "discountPercent": 63,
+    "hasSale": true
+  },
+  "1284410": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1284470": {
+    "originalPrice": 8.99,
+    "currentPrice": 8.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1285190": {
+    "originalPrice": 69.99,
+    "currentPrice": 34.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1287055": {
+    "originalPrice": 0.99,
+    "currentPrice": 0.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1287056": {
+    "originalPrice": 0.99,
+    "currentPrice": 0.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1295510": {
+    "originalPrice": 39.99,
+    "currentPrice": 19.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1295660": {
+    "originalPrice": 69.99,
+    "currentPrice": 34.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1323320": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1325040": {
+    "originalPrice": 19.99,
+    "currentPrice": 11.99,
+    "discountPercent": 40,
+    "hasSale": true
+  },
+  "1328670": {
+    "originalPrice": 59.99,
+    "currentPrice": 14.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1346510": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1352030": {
+    "originalPrice": 0.99,
+    "currentPrice": 0.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1353060": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1358490": {
+    "originalPrice": 19.5,
+    "currentPrice": 9.75,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1360210": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1382330": {
+    "originalPrice": 59.99,
+    "currentPrice": 17.99,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "1393790": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1404210": {
+    "originalPrice": 19.99,
+    "currentPrice": 9.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1446780": {
+    "originalPrice": 39.99,
+    "currentPrice": 3.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "1451460": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1462040": {
+    "originalPrice": 39.99,
+    "currentPrice": 9.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1465260": {
+    "originalPrice": 9.75,
+    "currentPrice": 1.17,
+    "discountPercent": 88,
+    "hasSale": true
+  },
+  "1478850": {
+    "originalPrice": 14.99,
+    "currentPrice": 5.24,
+    "discountPercent": 65,
+    "isFree": false
+  },
+  "1551360": {
+    "originalPrice": 59.99,
+    "currentPrice": 23.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1580050": {
+    "originalPrice": 4.99,
+    "currentPrice": 2.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1593500": {
+    "originalPrice": 49.99,
+    "currentPrice": 19.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1608070": {
+    "originalPrice": 49.99,
+    "currentPrice": 17.49,
+    "discountPercent": 65,
+    "isFree": false
+  },
+  "1613280": {
+    "originalPrice": 19.99,
+    "currentPrice": 7.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1613281": {
+    "originalPrice": 19.99,
+    "currentPrice": 7.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1613283": {
+    "originalPrice": 19.99,
+    "currentPrice": 19.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1619010": {
+    "originalPrice": 9.99,
+    "currentPrice": 2.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1619300": {
+    "originalPrice": 9.99,
+    "currentPrice": 2.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "1627720": {
+    "originalPrice": 59.99,
+    "currentPrice": 29.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1659040": {
+    "originalPrice": 29.99,
+    "currentPrice": 2.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "1670430": {
+    "originalPrice": 12.99,
+    "currentPrice": 6.49,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1677350": {
+    "originalPrice": 69.99,
+    "currentPrice": 6.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "1687950": {
+    "originalPrice": 59.99,
+    "currentPrice": 17.99,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "1695830": {
+    "originalPrice": 38.99,
+    "currentPrice": 31.19,
+    "discountPercent": 20,
+    "hasSale": true
+  },
+  "1701720": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1716740": {
+    "originalPrice": 49.99,
+    "currentPrice": 29.99,
+    "discountPercent": 40,
+    "hasSale": true
+  },
+  "1746860": {
+    "originalPrice": 19.99,
+    "currentPrice": 9.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "1759150": {
+    "originalPrice": 17.99,
+    "currentPrice": 15.29,
+    "discountPercent": 15,
+    "isFree": false
+  },
+  "1771300": {
+    "originalPrice": 59.99,
+    "currentPrice": 23.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1794960": {
+    "originalPrice": 29.99,
+    "currentPrice": 8.99,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "1809700": {
+    "originalPrice": 19.99,
+    "currentPrice": 9.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1817070": {
+    "originalPrice": 59.99,
+    "currentPrice": 23.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1817190": {
+    "originalPrice": 49.99,
+    "currentPrice": 19.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "1849250": {
+    "originalPrice": 49.99,
+    "currentPrice": 24.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "1850570": {
+    "originalPrice": 39.99,
+    "currentPrice": 9.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "1865780": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1880360": {
+    "originalPrice": 39.99,
+    "currentPrice": 5.99,
+    "discountPercent": 85,
+    "hasSale": true
+  },
+  "1880832": {
+    "originalPrice": 19.99,
+    "currentPrice": 1.99,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "1888510": {
+    "originalPrice": 69.99,
+    "currentPrice": 13.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "1889930": {
+    "originalPrice": 38.99,
+    "currentPrice": 38.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "1924400": {
+    "originalPrice": 9.75,
+    "currentPrice": 2.92,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "1938420": {
+    "originalPrice": 9.75,
+    "currentPrice": 9.75,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1946180": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1946740": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "1962700": {
+    "originalPrice": 29.99,
+    "currentPrice": 29.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "2021210": {
+    "originalPrice": 49.99,
+    "currentPrice": 19.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "2022670": {
+    "originalPrice": 39.99,
+    "currentPrice": 11.99,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "2050650": {
+    "originalPrice": 39.99,
+    "currentPrice": 9.99,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "2059760": {
+    "originalPrice": 13.79,
+    "currentPrice": 1.37,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "2060310": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2063410": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2101430": {
+    "originalPrice": 9.99,
+    "currentPrice": 6.99,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "2138330": {
+    "originalPrice": 29.99,
+    "currentPrice": 17.99,
+    "discountPercent": 40,
+    "hasSale": true
+  },
+  "2139870": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2144483": {
+    "originalPrice": 3.99,
+    "currentPrice": 1.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "2161700": {
+    "originalPrice": 59.99,
+    "currentPrice": 17.99,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "2175540": {
+    "originalPrice": 39.99,
+    "currentPrice": 7.99,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "2208920": {
+    "originalPrice": 59.99,
+    "currentPrice": 11.99,
+    "discountPercent": 80,
+    "hasSale": true
+  },
+  "2215430": {
+    "originalPrice": 59.99,
+    "currentPrice": 35.99,
+    "discountPercent": 40,
+    "isFree": false
+  },
+  "2225940": {
+    "originalPrice": 3.99,
+    "currentPrice": 1.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "2246340": {
+    "originalPrice": 39.99,
+    "currentPrice": 29.99,
+    "discountPercent": 25,
+    "hasSale": true
+  },
+  "2254740": {
+    "originalPrice": 59.99,
+    "currentPrice": 17.99,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "2300960": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2313323": {
+    "originalPrice": 3.99,
+    "currentPrice": 1.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "2322010": {
+    "originalPrice": 59.99,
+    "currentPrice": 40.19,
+    "discountPercent": 33,
+    "hasSale": true
+  },
+  "2325281": {
+    "originalPrice": 10,
+    "currentPrice": 10,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2337580": {
+    "originalPrice": 14.99,
+    "currentPrice": 14.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "2356560": {
+    "originalPrice": 29.99,
+    "currentPrice": 9.89,
+    "discountPercent": 67,
+    "hasSale": true
+  },
+  "2362420": {
+    "originalPrice": 29.99,
+    "currentPrice": 7.49,
+    "discountPercent": 75,
+    "hasSale": true
+  },
+  "2378500": {
+    "originalPrice": 9.75,
+    "currentPrice": 6.82,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "2384580": {
+    "originalPrice": 79.99,
+    "currentPrice": 55.99,
+    "discountPercent": 30,
+    "isFree": false
+  },
+  "2401180": {
+    "originalPrice": 24.99,
+    "currentPrice": 17.49,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "2420110": {
+    "originalPrice": 59.99,
+    "currentPrice": 29.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2427743": {
+    "originalPrice": 19.99,
+    "currentPrice": 13.99,
+    "discountPercent": 30,
+    "isFree": false
+  },
+  "2436570": {
+    "originalPrice": 27.99,
+    "currentPrice": 13.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "2440510": {
+    "originalPrice": 69.99,
+    "currentPrice": 27.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "2486820": {
+    "originalPrice": 69.99,
+    "currentPrice": 27.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "2502260": {
+    "originalPrice": 7.79,
+    "currentPrice": 6.23,
+    "discountPercent": 20,
+    "hasSale": true
+  },
+  "2513280": {
+    "originalPrice": 49.99,
+    "currentPrice": 14.99,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "2513890": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2515020": {
+    "originalPrice": 49.99,
+    "currentPrice": 19.99,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "2520200": {
+    "originalPrice": 0.99,
+    "currentPrice": 0.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2525380": {
+    "originalPrice": 28.99,
+    "currentPrice": 5.79,
+    "discountPercent": 80,
+    "isFree": false
+  },
+  "2537120": {
+    "originalPrice": 3.99,
+    "currentPrice": 3.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2561580": {
+    "originalPrice": 49.99,
+    "currentPrice": 29.99,
+    "discountPercent": 40,
+    "hasSale": true
+  },
+  "2561880": {
+    "originalPrice": 9.99,
+    "currentPrice": 4.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2582560": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2622380": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "2638620": {
+    "originalPrice": 19.5,
+    "currentPrice": 13.65,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "2651280": {
+    "originalPrice": 59.99,
+    "currentPrice": 40.19,
+    "discountPercent": 33,
+    "hasSale": true
+  },
+  "2658350": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2668510": {
+    "originalPrice": 49.99,
+    "currentPrice": 24.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2669320": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2684660": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2689210": {
+    "originalPrice": 34.99,
+    "currentPrice": 10.49,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "2701660": {
+    "originalPrice": 59.99,
+    "currentPrice": 29.99,
+    "discountPercent": 50,
+    "isFree": false
+  },
+  "2721670": {
+    "originalPrice": 19.99,
+    "currentPrice": 13.99,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "2722710": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2753270": {
+    "originalPrice": 14.79,
+    "currentPrice": 11.09,
+    "discountPercent": 25,
+    "hasSale": true
+  },
+  "2767510": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2768050": {
+    "originalPrice": 13.79,
+    "currentPrice": 1.37,
+    "discountPercent": 90,
+    "hasSale": true
+  },
+  "2778580": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "2778590": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "2780810": {
+    "originalPrice": 17.99,
+    "currentPrice": 16.19,
+    "discountPercent": 10,
+    "hasSale": true
+  },
+  "2792440": {
+    "originalPrice": 4.99,
+    "currentPrice": 4.99,
+    "discountPercent": 0,
+    "hasSale": false
+  },
+  "2813030": {
+    "originalPrice": 2.99,
+    "currentPrice": 2,
+    "discountPercent": 33,
+    "hasSale": true
+  },
+  "2838630": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2838640": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2848330": {
+    "originalPrice": 29.99,
+    "currentPrice": 29.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2868840": {
+    "originalPrice": 22.99,
+    "currentPrice": 22.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2893570": {
+    "originalPrice": 59.99,
+    "currentPrice": 38.99,
+    "discountPercent": 35,
+    "isFree": false
+  },
+  "2909400": {
+    "originalPrice": 49.99,
+    "currentPrice": 14.99,
+    "discountPercent": 70,
+    "isFree": false
+  },
+  "2950840": {
+    "originalPrice": 9.75,
+    "currentPrice": 6.82,
+    "discountPercent": 30,
+    "hasSale": true
+  },
+  "2951690": {
+    "originalPrice": 49.99,
+    "currentPrice": 49.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "2956320": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2957350": {
+    "originalPrice": 5.89,
+    "currentPrice": 5,
+    "discountPercent": 15,
+    "hasSale": true
+  },
+  "2974310": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2974330": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "2974340": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3008130": {
+    "originalPrice": 59.99,
+    "currentPrice": 29.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3017860": {
+    "originalPrice": 49.99,
+    "currentPrice": 24.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3024580": {
+    "originalPrice": 4.99,
+    "currentPrice": 3.49,
+    "discountPercent": 30,
+    "isFree": false
+  },
+  "3035570": {
+    "originalPrice": 49.99,
+    "currentPrice": 14.99,
+    "discountPercent": 70,
+    "hasSale": true
+  },
+  "3041280": {
+    "originalPrice": 39.99,
+    "currentPrice": 39.99,
+    "discountPercent": 0,
+    "isFree": false
+  },
+  "3061570": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3061810": {
+    "originalPrice": 59.99,
+    "currentPrice": 14.99,
+    "discountPercent": 75,
+    "isFree": false
+  },
+  "3118100": {
+    "originalPrice": 4.99,
+    "currentPrice": 3.24,
+    "discountPercent": 35,
+    "hasSale": true
+  },
+  "3128480": {
+    "originalPrice": 29.99,
+    "currentPrice": 14.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3135730": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3159330": {
+    "originalPrice": 69.99,
+    "currentPrice": 27.99,
+    "discountPercent": 60,
+    "hasSale": true
+  },
+  "3172660": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3240220": {
+    "originalPrice": 29.99,
+    "currentPrice": 14.99,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3279780": {
+    "originalPrice": 39.99,
+    "currentPrice": 20,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3429040": {
+    "originalPrice": 1.99,
+    "currentPrice": 0.79,
+    "discountPercent": 60,
+    "isFree": false
+  },
+  "3454290": {
+    "originalPrice": 2.99,
+    "currentPrice": 1.49,
+    "discountPercent": 50,
+    "hasSale": true
+  },
+  "3484260": {
+    "originalPrice": 14.99,
+    "currentPrice": 14.99,
+    "discountPercent": 0,
+    "hasSale": false
+  }
+}

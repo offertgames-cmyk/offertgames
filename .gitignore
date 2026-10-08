@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables & secrets (CRUCIAL: Nunca subir a Git)
+.env
+.env.production
+.env.local
+.env.*.local
+alert_email_config.json
+serviceAccountKey.json
+*firebase-adminsdk*.json
+
+# Binarios y archivos temporales grandes
+*.exe
+*.zip
+*.bak
+.firebase/
+.agents/
+desktop_database_admin/
+visual-db-viewer/
+
+# Build outputs (.NET / Desktop)
+bin/
+obj/
+desktop-app/bin/
+desktop-app/obj/
+desktop-app/publish/
+desktop-app/publish-single/
