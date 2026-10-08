@@ -197,7 +197,7 @@ export interface ReportItem {
   status: 'pending' | 'resolved_removed' | 'resolved_dismissed';
 }
 
-export type ViewTab = 'ofertas' | 'juegos' | 'comunidades' | 'avisos' | 'admin';
+export type ViewTab = 'ofertas' | 'juegos' | 'comunidades' | 'avisos' | 'noticias' | 'admin';
 
 export interface CookieConsent {
   id: string;

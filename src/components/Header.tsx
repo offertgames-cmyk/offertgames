@@ -22,7 +22,8 @@ import {
   Headphones,
   Mail,
   Copy,
-  Send
+  Send,
+  Newspaper
 } from 'lucide-react';
 import { ViewTab } from '../types/game';
 import { NotificationDropdown } from './NotificationDropdown';
@@ -147,6 +148,18 @@ export const Header: React.FC = () => {
               >
                 Avisos
                 {activeTab === 'avisos' && (
+                  <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#38bdf8] rounded-full"></span>
+                )}
+              </button>
+
+              <button
+                onClick={() => handleNav('noticias')}
+                className={`transition-colors relative py-1 hover:text-white cursor-pointer ${
+                  activeTab === 'noticias' ? 'text-white font-bold' : 'text-gray-400'
+                }`}
+              >
+                Noticias
+                {activeTab === 'noticias' && (
                   <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#38bdf8] rounded-full"></span>
                 )}
               </button>
@@ -621,6 +634,20 @@ export const Header: React.FC = () => {
                   <div className="flex items-center gap-2">
                     <Bell className="w-3.5 h-3.5" />
                     <span>Avisos y Alertas</span>
+                  </div>
+                  <ChevronRight className="w-3 h-3 text-gray-500" />
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => handleNav('noticias')}
+                  className={`w-full flex items-center justify-between p-2 rounded-xl text-xs font-bold transition-all cursor-pointer ${
+                    activeTab === 'noticias' ? 'bg-[#38bdf8]/15 text-[#38bdf8]' : 'text-gray-300 hover:bg-[#192333] hover:text-white'
+                  }`}
+                >
+                  <div className="flex items-center gap-2">
+                    <Newspaper className="w-3.5 h-3.5" />
+                    <span>Noticias Diarias</span>
                   </div>
                   <ChevronRight className="w-3 h-3 text-gray-500" />
                 </button>

@@ -598,6 +598,34 @@ export function alertServerMiddleware(server: ViteDevServer, env: Record<string,
       }
     }
 
+    // CORS preflight & handler for /api/steam-news
+    if (url.startsWith('/api/steam-news')) {
+      if (req.method === 'OPTIONS') {
+        res.statusCode = 204;
+        res.setHeader('Access-Control-Allow-Origin', '*');
+        res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+        res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+        res.end();
+        return;
+      }
+
+      if (req.method === 'GET') {
+        try {
+          const parsedUrl = new URL(url, 'http://localhost:5000');
+          const appId = parsedUrl.searchParams.get('appid') || '730';
+          const count = parsedUrl.searchParams.get('count') || '1';
+
+          const steamRes = await fetch(`https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=${appId}&count=${count}&maxlength=400`);
+          const data = await steamRes.json();
+          sendJson(res, steamRes.status, data);
+          return;
+        } catch (err: any) {
+          sendJson(res, 500, { ok: false, error: err?.message || 'Error en proxy Steam News' });
+          return;
+        }
+      }
+    }
+
     // CORS preflight
     if (req.method === 'OPTIONS' && url.startsWith('/api/alerts')) {
       res.statusCode = 204;

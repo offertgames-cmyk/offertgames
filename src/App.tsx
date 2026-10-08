@@ -6,6 +6,7 @@ import { CatalogView } from './components/CatalogView';
 import { GameDetailView } from './components/GameDetailView';
 import { CommunityView } from './components/CommunityView';
 import { AlertsView } from './components/AlertsView';
+import { NewsView } from './components/NewsView';
 import { AuthModal } from './components/AuthModal';
 import { PriceAlertModal } from './components/PriceAlertModal';
 import { DonationModal } from './components/DonationModal';
@@ -27,6 +28,7 @@ const MainLayout: React.FC = () => {
       {activeTab === 'juegos' && <CatalogView />}
       {activeTab === 'comunidades' && <CommunityView />}
       {activeTab === 'avisos' && <AlertsView />}
+      {activeTab === 'noticias' && <NewsView />}
     </>
   );
 
