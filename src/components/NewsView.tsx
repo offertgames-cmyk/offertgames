@@ -32,10 +32,10 @@ export const NewsView: React.FC = () => {
     day: 'numeric' 
   });
 
-  const loadNews = async () => {
+  const loadNews = async (force: boolean = false) => {
     setIsLoading(true);
     try {
-      const items = await getDailyGameNews();
+      const items = await getDailyGameNews(force);
       setNews(items);
     } catch (err) {
       console.error('[NewsView] Error loading daily news:', err);
@@ -133,7 +133,7 @@ export const NewsView: React.FC = () => {
           <div className="flex items-center gap-3 shrink-0">
             <button
               type="button"
-              onClick={loadNews}
+              onClick={() => loadNews(true)}
               disabled={isLoading}
               className="flex items-center gap-2 py-2.5 px-4 rounded-xl bg-[#172233] hover:bg-[#202f45] border border-[#2a3c54] text-xs font-bold text-gray-200 hover:text-white transition-all cursor-pointer shadow-md disabled:opacity-50"
               title="Refrescar noticias de hoy"
