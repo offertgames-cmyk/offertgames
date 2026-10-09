@@ -285,3 +285,25 @@ export async function getDailyGameNews(forceRefresh: boolean = false): Promise<G
 
   return uniqueDailySelection;
 }
+
+/**
+ * Traduce un texto automáticamente al español mediante el endpoint público de Google Translate con CORS abierto
+ */
+export async function translateToSpanish(text: string): Promise<string> {
+  if (!text || !text.trim()) return text;
+  try {
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q=${encodeURIComponent(text)}`;
+    const res = await fetch(url, { signal: AbortSignal.timeout(5000) });
+    if (!res.ok) return text;
+    const json = await res.json();
+    if (Array.isArray(json) && Array.isArray(json[0])) {
+      const translated = json[0].map((part: any) => part[0]).join('');
+      if (translated && translated.trim().length > 0) {
+        return translated.trim();
+      }
+    }
+  } catch (err) {
+    console.warn('[Translate] Error al traducir texto:', err);
+  }
+  return text;
+}
